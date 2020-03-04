@@ -26,17 +26,3 @@ function mostrar(){
     }
   }
 }
-
-
-
-
-//  Esta forma también funciona pero es más "chapucera"
-/*
-if (element == "A" || element == "E" || element == "I" || element == "O" || element == "U"){
-  console.log("He trobat la VOCAL: " + myName[i]);
-}else if (element /= 1){
-  console.log("Els noms de persones no contenen el número: " + myName[i]);
-}else{
-  console.log("He trobat la CONSONANT: " + myName[i]);
-}
-*/
